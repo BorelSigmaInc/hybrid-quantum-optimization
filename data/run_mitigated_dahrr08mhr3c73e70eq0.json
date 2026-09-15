@@ -1,0 +1,35 @@
+{
+  "job_id": "dahrr08mhr3c73e70eq0",
+  "backend": "gate-model-processor",
+  "num_qubits": 4,
+  "reps": 1,
+  "shots": 1024,
+  "params": [
+    1.14,
+    0.4839
+  ],
+  "twirling_enable_measure": true,
+  "dynamical_decoupling": true,
+  "depth": 31,
+  "gates": 44,
+  "counts": {
+    "0101": 213,
+    "0110": 121,
+    "1010": 234,
+    "1011": 44,
+    "0100": 67,
+    "1001": 112,
+    "0010": 70,
+    "1110": 5,
+    "0011": 13,
+    "1101": 68,
+    "1111": 18,
+    "1100": 21,
+    "0111": 7,
+    "0000": 17,
+    "0001": 6,
+    "1000": 8
+  },
+  "optimality_ratio": 0.4365234375,
+  "timestamp": "2026-09-11T08:37:21.301542+00:00"
+}
